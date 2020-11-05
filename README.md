@@ -7,4 +7,3 @@ A basic square expansion type game where a player wins by being the only player 
 
 Tracks move history enabling rewinding of turns, and is able to save and load binary save files.
 
-This was the first large programming project I ever completed, and was a great learning experience that helped to build an understanding of linked lists, state management, file linking, dynamic allocation of memory and building more complicated programs.
